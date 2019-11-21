@@ -1,0 +1,29 @@
+header 
+{
+    font-family: philosopher;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 81px;
+    position: absolute;
+    width: 240px;
+    height: 81px;
+    left: 840px;
+    top: -100px;
+    border: solid black;position: absolute;width: 1920px; height: 300px; left: 0px;right: 0px; top: 0px; background: #9e2792;
+}
+p 
+{
+    font-size: 36px;
+    font-style: normal;
+    line-height: 54px;
+    position: absolute;
+    width: 560px;
+    height: 54;
+    left: 685px;
+    top: 152px;
+    color: #E5E5E5
+}
+h1{
+    color: #E5E5E5;
+}
